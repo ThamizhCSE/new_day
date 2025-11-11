@@ -1,5 +1,16 @@
-div
-{
-    height: 100%;
-    background-color: blueviolet;
+body{
+    background-color :bisque;
+}
+.ribrow{
+    background-color: black;
+    height: 30px;
+    width: 150px;
+    border-radius: 150% 50% 50% 0%;
+} 
+.face{
+    background-color: red;
+    display: grid;
+    place-items: center;
+    size: 100px;
+
 }
